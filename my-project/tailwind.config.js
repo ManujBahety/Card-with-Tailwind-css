@@ -6,6 +6,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        primary: "rgb(29 37 63)",
+        secondary: "rgb(43, 54, 94)",
         'ebony-clay': {
           '50': '#f4f4f5', 
           '100': '#e8e9ec', 
