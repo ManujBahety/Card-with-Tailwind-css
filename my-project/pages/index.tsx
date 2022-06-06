@@ -14,7 +14,8 @@ return (
       <title>DevFinder</title>
       <link rel="icon" href="/favicon.ico" />
     </Head>
-    
+
+      {/* Header */}
       <header className="font-bold text-xl mx-auto max-w-full md:max-w-2xl mt-4">
         <h1 className="text-white p-3 font-bold text-2xl">
           devfinder
